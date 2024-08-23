@@ -1,5 +1,8 @@
 # F1 Drivers Analysis
 
+## Problem Statement
+The project aims to analyze the performance of F1 drivers using a dataset containing various statistics such as race entries, starts, pole positions, wins, podiums, fastest laps, and points. By employing multiple machine learning models, the project seeks to predict whether a driver can become a champion.
+
 ## Description
 This project analyzes a dataset of F1 drivers to explore various relationships and build predictive models. The analysis includes visualizations, correlation studies, and binary classification to predict whether a driver can become a champion.
 
